@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<mahasiswa_list>
+  
+  
+  
+  
+  <mahasiswa>
+    
+    
+    
+    
+    <nim>12345</nim>
+    
+    
+    
+    
+    <nama>Ahmad Rizki</nama>
+    
+    
+    
+    
+    <jurusan>Teknik Informatika</jurusan>
+    
+    
+    
+    
+    <ipk>3.80</ipk>
+    
+    
+  
+  
+  </mahasiswa>
+  
+  
+  
+  
+  <mahasiswa>
+    
+    
+    
+    
+    <nim>67890</nim>
+    
+    
+    
+    
+    <nama>Siti Nurhaliza</nama>
+    
+    
+    
+    
+    <jurusan>Sistem Informasi</jurusan>
+    
+    
+    
+    
+    <ipk>3.85</ipk>
+    
+    
+  
+  
+  </mahasiswa>
+  
+  
+  
+  
+  <mahasiswa>
+    
+    
+    
+    
+    <nim>11111</nim>
+    
+    
+    
+    
+    <nama>Budi Santoso</nama>
+    
+    
+    
+    
+    <jurusan>Teknik Komputer</jurusan>
+    
+    
+    
+    
+    <ipk>3.60</ipk>
+    
+    
+  
+  
+  </mahasiswa>
+  
+  
+
+  
+  <mahasiswa>
+    
+    
+    <nim>99999</nim>
+    
+    
+    <nama>Andi Wijaya</nama>
+    
+    
+    <jurusan>Teknik Elektro</jurusan>
+    
+    
+    <ipk>3.90</ipk>
+    
+  
+  </mahasiswa>
+  
+
+</mahasiswa_list>
